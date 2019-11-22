@@ -19,7 +19,7 @@ Noções básicas de login, criação de tela utilizando swing, banco de dados P
    <h2>Eu</h2>
    diego.paula@live.com <br>
     <a href="https://www.facebook.com/diego.ferratone">Facebook</a><br>
-    <a href="https://br.linkedin.com/in/diego-de-paula-8425a495">Linkedin</a>
+    <a href="www.linkedin.com/in/diegobpaula">Linkedin</a>
    
 <h2>Licença</h2>
 Copyright (C) 2016 Diego Bezerra de Paula
