@@ -4,11 +4,11 @@ Noções básicas de login, criação de tela utilizando swing, banco de dados P
 
 <h2>Screenshots</h2>
 
-<img src="https://lh3.googleusercontent.com/-_Rfff0wsqXc/VtC-YPbPrbI/AAAAAAAACzg/oc0xn8ZUBcA/s401-Ic42/tela-tratamento.PNG"/>
+<img src="https://github.com/diegobpaula/TelaLogin/blob/master/image/printscreen-one.PNG?raw=true"/>
 
-<img src="https://lh3.googleusercontent.com/-1B9ze5LjMss/VtC-YGkQGOI/AAAAAAAACzs/uWgIX8IXSLo/s401-Ic42/tela-validacao.PNG"/>
+<img src="https://github.com/diegobpaula/TelaLogin/blob/master/image/printscreen-two.PNG?raw=true"/>
 
-<img src="https://lh3.googleusercontent.com/-3PcFfdk1jGo/VtC-YS-U1yI/AAAAAAAACzs/HVARctLIdLA/s403-Ic42/tela.PNG"/>
+<img src="https://github.com/diegobpaula/TelaLogin/blob/master/image/printscreen-three.PNG?raw=true"/>
 
 <h2> Passos para desenvolvimento</h2>
 
