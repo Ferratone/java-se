@@ -16,10 +16,9 @@ Basic notions of login, creation of screen using swing, POSTGRESQL database, wor
 2.   NetBeans IDE 8.0
 3.   PostgreSQL 9.3
    
-   <h2>I, Diego</h2>
-   diego.paula@live.com <br>
-    <a href="https://www.facebook.com/diegobpaula">Facebook</a><br>
-    <a href="https://www.linkedin.com/in/diegobpaula/">Linkedin</a>
+## I, Diego
+- [Linkedln](http://https://www.linkedin.com/in/diegobpaula/ "Linkedln")
+- Email: diego.paula@live.com
    
 <h2>License</h2>
 Copyright (C) 2020 Diego Bezerra de Paula
